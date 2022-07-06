@@ -35,5 +35,5 @@ NameError: name 'ard' is not defined
 A ^ 32 = a
 >>> a = b^mask
 >>> print("%c ^ %d = %c" % (b, mask, a))
-a ^ 32 = A
+ a ^ 32 = A
 >>> 
